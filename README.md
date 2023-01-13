@@ -1,1 +1,1 @@
-# recipes-project
+This is a project for the HTML foundational course on The odin project. In this project I will demonstrate my ability to write basic HTML and save it with git.
